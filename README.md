@@ -17,7 +17,7 @@
 |MISP|127|Home Chat|[demo](https://mispchallenge.github.io/mispchallenge2022/overview.html)|[URL](https://mispchallenge.github.io/mispchallenge2022)|Free|``ASR``, ``SD``|
 
 
-* ``AMI``, ``AVA-ActiveSpeaker``, ``MSDWild`` and ``MISP2022`` provide the original video (not cropped faces).
+* ``AMI``, ``AVA-ActiveSpeaker``, ``MSDWild`` and ``MISP`` provide the original video (not cropped faces).
 * ``LRS2``, ``LRS3`` and ``VoxCeleb2`` provide cropped face videos.
 * ``VoxCeleb1`` does not provide cropped face, but [this repo](https://github.com/AliaksandrSiarohin/video-preprocessing) provides the processed result([URL](https://drive.google.com/u/0/uc?id=1VLhAbzbrexqg-nHq8l1AV8oc-Sq-x0kZ)) by downloading and processing the original videos .
 * ``AVSpeech`` only provides download ids of YouTube, lots of videos are missing.
