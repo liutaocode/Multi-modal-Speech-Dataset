@@ -6,8 +6,8 @@
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |   AMI  |   100  |   Meeting  |   -  | [URL](https://groups.inf.ed.ac.uk/ami/corpus/)   | Free | ``SD`` |
 |LRW|173|BBC|[demo](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/visualisation.htm)|[URL](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)|Free| ``LR``|
-|LRS2|225|BBC|-|[URL](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)|Free|``ASR``|
-|LRS3|438|TED|-|[URL](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs3.html)|Free|``ASR``|
+|LRS2|225|BBC|-|[URL](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)|Free|``ASR``,``LR``|
+|LRS3|438|TED|-|[URL](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs3.html)|Free|``ASR``,``LR``|
 |VoxCeleb1|352|YouTube Celebrities|-|[URL](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)|Free|``ASR``, ``SV``, ``SS``|
 |VoxCeleb2|2441|YouTube Celebrities|-|[URL](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)|Free|``ASR``, ``SV``, ``SS``|
 |AVSpeech|4700|YouTube|[demo](https://looking-to-listen.github.io/avspeech/explore.html)|[URL](https://looking-to-listen.github.io/avspeech/)|Free| ``SS``|
